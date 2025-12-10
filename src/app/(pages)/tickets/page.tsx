@@ -1,7 +1,7 @@
 
 import React from 'react'
 import {FC,Suspense} from "react"
-import TicketGrid from './ticket-grid'
+import TicketGrid from './tickets-grid'
 import Loading from './loading'
 
 
